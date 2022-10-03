@@ -1,10 +1,5 @@
-# Template
+# Blackjack
 
-## Due: DoW MM/DD at 11:59 PM
+## Due: Wed 10/12 at 11:59 PM
 
-- Create a program called `.java`
-- Prompt the user for 
-
-***Example Input:***\
-\
-***Example Output:***
+- Follow the instructions [here](https://drive.google.com/file/d/1ZolIa78TFh2IynwWwSXOIstPRekN1Kel/view?usp=sharing)
