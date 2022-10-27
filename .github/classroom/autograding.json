@@ -2,7 +2,7 @@
   "tests": [
     {
       "name": "compile Card.java and BlackJackCard.java",
-      "setup": "javac Card.java && BlackJackCard.java",
+      "setup": "javac Card.java && javac BlackJackCard.java",
       "run": "",
       "input": "",
       "output": "",
