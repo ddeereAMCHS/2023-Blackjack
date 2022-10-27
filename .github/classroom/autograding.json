@@ -1,0 +1,54 @@
+{
+  "tests": [
+    {
+      "name": "compile Card.java and BlackJackCard.java",
+      "setup": "javac Card.java && BlackJackCard.java",
+      "run": "",
+      "input": "",
+      "output": "",
+      "comparison": "included",
+      "timeout": 10,
+      "points": null
+    },
+    {
+      "name": "compile Deck.java",
+      "setup": "javac Deck.java",
+      "run": "",
+      "input": "",
+      "output": "",
+      "comparison": "included",
+      "timeout": 10,
+      "points": null
+    },
+    {
+      "name": "compile Player.java",
+      "setup": "javac Player.java",
+      "run": "",
+      "input": "",
+      "output": "",
+      "comparison": "included",
+      "timeout": 10,
+      "points": null
+    },
+    {
+      "name": "compile Dealer.java",
+      "setup": "javac Dealer.java",
+      "run": "",
+      "input": "",
+      "output": "",
+      "comparison": "included",
+      "timeout": 10,
+      "points": null
+    },
+    {
+      "name": "compile BlackJack.java",
+      "setup": "javac BlackJack.java",
+      "run": "",
+      "input": "",
+      "output": "",
+      "comparison": "included",
+      "timeout": 10,
+      "points": null
+    }
+  ]
+}
