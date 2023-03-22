@@ -7,7 +7,7 @@
       "input": "",
       "output": "Compiled successfully",
       "comparison": "exact",
-      "timeout": 10,
+      "timeout": 2,
       "points": null
     },
     {
@@ -17,7 +17,7 @@
       "input": "",
       "output": "Compiled successfully",
       "comparison": "exact",
-      "timeout": 10,
+      "timeout": 2,
       "points": null
     },
     {
@@ -27,7 +27,7 @@
       "input": "",
       "output": "Compiled successfully",
       "comparison": "exact",
-      "timeout": 10,
+      "timeout": 2,
       "points": null
     },
     {
@@ -37,7 +37,7 @@
       "input": "",
       "output": "Compiled successfully",
       "comparison": "exact",
-      "timeout": 10,
+      "timeout": 2,
       "points": null
     },
     {
@@ -47,7 +47,7 @@
       "input": "",
       "output": "Compiled successfully",
       "comparison": "exact",
-      "timeout": 10,
+      "timeout": 2,
       "points": null
     }
   ]
